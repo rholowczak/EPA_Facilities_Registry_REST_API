@@ -12,7 +12,16 @@ Technical documentation for the REST Query API can be found at this URL:<br>
 
 # Requirements
 <ol>
-<li> Download and install the swagger client REST API code</li>
+<li> Download and install the swagger client REST API code<br>
+   To generate the Python Client:
+   <ul><li>Visit https://editor.swagger.io/ and Clear the editor</li>
+   <li> Open the Query Swagger client: https://frsquerypre-api.epa.gov/facilityiptquery/swagger-v1.json</li>
+   <li>Copy the contents and paste them into the Swagger editor.  You may be prompted to convert the JSON into YAML. Click OK.</li>
+   <li>Pull down the Generate Client menu and choose "Python".   The python-client-generated.zip file will be downloaded.</li>
+   <li> Move the python-client-generated.zip file to a suitable directory and unzip.</li>
+   <li>Follow the instructions in the README.md file to build and install the client.</li>
+   <ul>
+
 <li>Obtain a NAAS username and password from nodehelpdesk@epacdx.net <br>
    In the request indicate the provisioning option to receive from and/or submit data to the FRS the partner system.
    </li>
