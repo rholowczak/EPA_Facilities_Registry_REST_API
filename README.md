@@ -20,7 +20,7 @@ Technical documentation for the REST Query API can be found at this URL:<br>
    <li>Pull down the Generate Client menu and choose "Python".   The python-client-generated.zip file will be downloaded.</li>
    <li> Move the python-client-generated.zip file to a suitable directory and unzip.</li>
    <li>Follow the instructions in the README.md file to build and install the client.</li>
-   <ul>
+   </ul>
 
 <li>Obtain a NAAS username and password from nodehelpdesk@epacdx.net <br>
    In the request indicate the provisioning option to receive from and/or submit data to the FRS the partner system.
