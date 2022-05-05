@@ -13,6 +13,8 @@ Technical documentation for the REST Query API can be found at this URL:<br>
 # Requirements
 <ol>
 <li> Download and install the swagger client REST API code<br>
+   I have uploaded two ZIP files above <tt>frs-preprod-query-python-client-generated.zip</tt> and <tt>xyz.zip</tt> that contain the Python version of the Swagger client codes. However if changes are made to the API, the Swagger Python client should be re-generated from the source.
+   <p>
    To generate the Python Client:
    <ul><li>Visit https://editor.swagger.io/ and Clear the editor</li>
    <li> Open the Query Swagger client: https://frsquerypre-api.epa.gov/facilityiptquery/swagger-v1.json</li>
