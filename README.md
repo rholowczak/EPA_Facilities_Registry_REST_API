@@ -33,7 +33,6 @@ Technical documentation for the REST Query API can be found at this URL:<br>
    password = 'Your NAAS password here'
    </pre>
    </li>
-<li> Choose some FRS query criteria such as a specific registryid, user_id, state_code </li>
 <li> Select the appropriate pre-production (testing) or Production server URL<br>
      <ul><li> Pre-production:<br>
       Query: https://frsquerypre-api.epa.gov/facilityiptquery/swagger-ui/index.html<br>
