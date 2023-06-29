@@ -1,8 +1,8 @@
 # EPA Facilities Registry REST API
-Code examples for interacting with the Environmental Protection Agency (EPA) Facilities Registry System (FRS) using the REST API
+Code examples for interacting with the Environmental Protection Agency (EPA) Facility Registry Service  (FRS) using the REST API
 
 Python code examples demonstrate how to use the swagger client REST API
-to query the EPA Facilities Registry System (FRS). General information
+to query the EPA Facility Registry Service  (FRS). General information
 about EPA FRS can be found here at this URL: <br>
    https://www.epa.gov/frs/facility-registry-service-frs-api
    <br>
